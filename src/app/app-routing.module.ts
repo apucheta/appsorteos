@@ -11,6 +11,10 @@ const routes: Routes = [
     redirectTo: 'home',
     pathMatch: 'full'
   },
+  {
+    path: 'sortea',
+    loadChildren: () => import('./sortea/sortea.module').then( m => m.SorteaPageModule)
+  },
 ];
 
 @NgModule({

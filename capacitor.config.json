@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "sorteos",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

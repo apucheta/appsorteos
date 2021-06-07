@@ -1,0 +1,7 @@
+{
+  "name": "sorteos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
